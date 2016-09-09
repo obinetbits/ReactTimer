@@ -1,0 +1,5 @@
+babel lets us use ES6 and JSX in our application
+
+Installed plugin on atom
+react
+atom-beautify
