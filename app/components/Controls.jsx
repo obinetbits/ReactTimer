@@ -13,7 +13,7 @@ var Controls = React.createClass({
     },
 
     componentWillReceiveProps: function (newProps) {
-        console.log('componentWillReceiveProps', newProps.countdownStatus);
+        //console.log('componentWillReceiveProps', newProps.countdownStatus);
     },
 
     render: function () {
